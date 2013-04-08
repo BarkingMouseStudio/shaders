@@ -4,7 +4,6 @@
 
 uniform float time;
 uniform float rand;
-uniform vec4 view;
 
 varying vec4 vNormal;
 varying vec4 vView;
